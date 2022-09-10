@@ -1,0 +1,17 @@
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\bin\Debug\net6.0\proyectos.App.persistencia.deps.json
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\bin\Debug\net6.0\proyectos.App.persistencia.runtimeconfig.json
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\bin\Debug\net6.0\proyectos.App.persistencia.dll
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\bin\Debug\net6.0\proyectos.App.persistencia.pdb
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\bin\Debug\net6.0\proyectos.App.Dominio.dll
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\bin\Debug\net6.0\proyectos.App.Dominio.pdb
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\obj\Debug\net6.0\proyectos.App.persistencia.csproj.AssemblyReference.cache
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\obj\Debug\net6.0\proyectos.App.persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\obj\Debug\net6.0\proyectos.App.persistencia.AssemblyInfoInputs.cache
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\obj\Debug\net6.0\proyectos.App.persistencia.AssemblyInfo.cs
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\obj\Debug\net6.0\proyectos.App.persistencia.csproj.CoreCompileInputs.cache
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\obj\Debug\net6.0\proyectos.App.persistencia.csproj.CopyComplete
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\obj\Debug\net6.0\proyectos.App.persistencia.dll
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\obj\Debug\net6.0\refint\proyectos.App.persistencia.dll
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\obj\Debug\net6.0\proyectos.App.persistencia.pdb
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\obj\Debug\net6.0\proyectos.App.persistencia.genruntimeconfig.cache
+C:\proyectocs\proyectos.App\Proyectos.App.Persistencia\obj\Debug\net6.0\ref\proyectos.App.persistencia.dll
