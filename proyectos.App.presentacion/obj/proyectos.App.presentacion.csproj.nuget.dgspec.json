@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proyectocs\\proyectos.App\\proyectos.App.presentacion\\proyectos.App.presentacion.csproj": {}
+    "C:\\proyectocs\\proyectos.App\\proyectos.App.Presentacion\\proyectos.App.presentacion.csproj": {}
   },
   "projects": {
     "C:\\proyectocs\\proyectos.App\\Proyectos.App.Dominio\\proyectos.App.Dominio.csproj": {
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -132,18 +132,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\proyectocs\\proyectos.App\\proyectos.App.presentacion\\proyectos.App.presentacion.csproj": {
+    "C:\\proyectocs\\proyectos.App\\proyectos.App.Presentacion\\proyectos.App.presentacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectocs\\proyectos.App\\proyectos.App.presentacion\\proyectos.App.presentacion.csproj",
+        "projectUniqueName": "C:\\proyectocs\\proyectos.App\\proyectos.App.Presentacion\\proyectos.App.presentacion.csproj",
         "projectName": "proyectos.App.presentacion",
-        "projectPath": "C:\\proyectocs\\proyectos.App\\proyectos.App.presentacion\\proyectos.App.presentacion.csproj",
+        "projectPath": "C:\\proyectocs\\proyectos.App\\proyectos.App.Presentacion\\proyectos.App.presentacion.csproj",
         "packagesPath": "C:\\Users\\Tsjuder\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectocs\\proyectos.App\\proyectos.App.presentacion\\obj\\",
+        "outputPath": "C:\\proyectocs\\proyectos.App\\proyectos.App.Presentacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tsjuder\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -179,23 +179,23 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[5.0.9, )"
             }
           },
           "imports": [
@@ -217,7 +217,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\proyectocs\\proyectos.App\\proyectos.App.Dominio\\proyectos.App.Dominio.csproj",
+      "projectUniqueName": "C:\\proyectocs\\proyectos.App\\Proyectos.App.Dominio\\proyectos.App.Dominio.csproj",
       "projectName": "proyectos.App.Dominio",
-      "projectPath": "C:\\proyectocs\\proyectos.App\\proyectos.App.Dominio\\proyectos.App.Dominio.csproj",
+      "projectPath": "C:\\proyectocs\\proyectos.App\\Proyectos.App.Dominio\\proyectos.App.Dominio.csproj",
       "packagesPath": "C:\\Users\\Tsjuder\\.nuget\\packages\\",
-      "outputPath": "C:\\proyectocs\\proyectos.App\\proyectos.App.Dominio\\obj\\",
+      "outputPath": "C:\\proyectocs\\proyectos.App\\Proyectos.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tsjuder\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
